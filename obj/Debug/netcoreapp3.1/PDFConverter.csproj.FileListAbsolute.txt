@@ -1,0 +1,13 @@
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.exe
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.deps.json
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.runtimeconfig.json
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.runtimeconfig.dev.json
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.dll
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\bin\Debug\netcoreapp3.1\PDFConverter.pdb
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.csprojAssemblyReference.cache
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.AssemblyInfoInputs.cache
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.AssemblyInfo.cs
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.csproj.CoreCompileInputs.cache
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.dll
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.pdb
+C:\Users\ViktorAdrianMouton\Desktop\DigiVote\PDFConverter\PDFConverter\obj\Debug\netcoreapp3.1\PDFConverter.genruntimeconfig.cache
