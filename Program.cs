@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml;
 
 namespace PDFConverter
 {
@@ -6,8 +7,11 @@ namespace PDFConverter
     {
         static void Main(string[] args)
         {
-            File Ludvig = new File("Solan");
-            Console.WriteLine(Ludvig.getNoe());
+            MeetingInfo machin = new MeetingInfo("Test1.pdf");
+            String[] allInfo = machin.getInfo();
+            for (int i = 0; i < allInfo.Length; i++)
+                Console.WriteLine(allInfo[i]);
+            machin.putInXML();
         }
     }
 }

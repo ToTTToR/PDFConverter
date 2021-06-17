@@ -1,0 +1,3 @@
+Hallo jeg heter Solan!
+Og jeg heter Ludvig!
+Vi er veldig glade, fordi vi elsker C#!
